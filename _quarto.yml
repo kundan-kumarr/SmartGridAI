@@ -3,14 +3,14 @@ project:
     output-dir: docs
 
 book:
-    title: Statistical Analysis
-    subtitle: Statistical Analysis Lecture Notes with R
+    title: Smart Grid Analytics
+    subtitle: AI-Driven Methods, Models, and Practices
     author: Kundan Kumar
     # date: today
     date-format: iso
     favicon: favicon.png
     cover-image: TSAcov.png
-    repo-url: https://github.com/kundan-kumarr/StatSphere/
+    repo-url: https://github.com/kundan-kumarr/SmartGridAI/
     repo-branch: master
     repo-actions: [edit, issue]
     downloads: [pdf, epub]
